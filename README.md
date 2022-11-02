@@ -1,5 +1,6 @@
 # **Portfolio**
 
+
 ## About me...
 
 My name is Duncan Bindbeutel (my last name rhymes with tinfoil.) I am an art manager working within the intersection of development, policy, and technology. I am currently a candidate for a Master of Arts Management at Carnegie Mellon University. I am originally from Columbia, MO but have lived in Chicago, IL and New York, NY. I am most proud of my professional endeavors where I have helped artists and creative professionals transform their complicated ideas into reality. I have worked in fabrication studios, organized film festivals, and have helped produce three different game shows to date. One time I lived on a flotilla of boats made out of found materials (garbage) that floated down the Hudson River. Another time, I worked for a coupon company, which was somehow way more stressful. My passion for ambitious creative projects is only surpassed by my adamant refusal to move pianos under any circumstances.
@@ -21,5 +22,7 @@ I put the whole dang system on trial!
 
 ## Final Project
 Lets just say, this is the big one.
-
-crete gif 2.gif
+ 
+  
+   
+![](https://raw.githubusercontent.com/duncbind/portfolio/21693411f99e44b016ae29a5065fffb627114314/crete%20gif%202.gif)
