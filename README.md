@@ -16,7 +16,7 @@ I am extremely excited to learn ways to present data in a way that captivates an
 Better to light a candle than curse the darkness...
 
 
-## Visualizing Government Debt
+## [Visualizing Government Debt](https://duncbind.github.io/portfolio/dataviz2)
 I put the whole dang system on trial!
 
 
