@@ -1,6 +1,6 @@
 # **Critique by Design**
 
-![pic1](https://github.com/duncbind/portfolio/blob/3b38ef1bf974b945d24fa1e374b38cd926afdfa0/Dashboard%20Screen%20Shot.png)
+![pic1](https://github.com/duncbind/portfolio/raw/3b38ef1bf974b945d24fa1e374b38cd926afdfa0/Dashboard%20Screen%20Shot.png))
 
 ![pic2](https://github.com/duncbind/portfolio/blob/3b38ef1bf974b945d24fa1e374b38cd926afdfa0/Heat%20Map%20Screen%20Shot.png)
 
