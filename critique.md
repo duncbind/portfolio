@@ -2,7 +2,7 @@
 
 ![pic1](IMG_7926.JPEG)
 
-![pic2](https://github.com/duncbind/portfolio/blob/3b38ef1bf974b945d24fa1e374b38cd926afdfa0/Heat%20Map%20Screen%20Shot.png)
+![image](https://user-images.githubusercontent.com/117220516/202341766-15b2c4d7-f9ce-4ef1-ac42-3978d27dc179.png))
 
 ![pic3](https://github.com/duncbind/portfolio/blob/89c1b348791b60276d115b1641f164119f5cb690/IMG_7926.JPEG)
 
