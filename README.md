@@ -12,17 +12,13 @@ I am extremely excited to learn ways to present data in a way that captivates an
 
 # Portfolio
 
-## Crafting for Clarity
-Better to light a candle than curse the darkness...
-
-
 ## [Visualizing Government Debt](https://duncbind.github.io/portfolio/dataviz2)
 I put the whole dang system on trial!
-
 
 ## Final Project
 Lets just say, this is the big one.
  
-  
+  ## [Critique by Design]()
+Better to light a candle than curse the darkness...
    
 ![](https://raw.githubusercontent.com/duncbind/portfolio/21693411f99e44b016ae29a5065fffb627114314/crete%20gif%202.gif)
