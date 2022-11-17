@@ -1,10 +1,17 @@
+![pic3](https://github.com/duncbind/portfolio/blob/main/IMG_7926.JPEG?raw=true)
+![pic3](https://github.com/duncbind/portfolio/blob/main/IMG_7927.JPEG?raw=true)
+![pic3](https://github.com/duncbind/portfolio/blob/main/IMG_7928.JPEG?raw=true)
+![pic3](https://github.com/duncbind/portfolio/blob/main/IMG_7929.JPEG?raw=true)
+
+
+
 # **Critique by Design**
 
 ![pic1](IMG_7926.JPEG)
 
-![image](https://user-images.githubusercontent.com/117220516/202341766-15b2c4d7-f9ce-4ef1-ac42-3978d27dc179.png))
+![image](IMG_7927.JPEG)
 
-![pic3](https://github.com/duncbind/portfolio/blob/89c1b348791b60276d115b1641f164119f5cb690/IMG_7926.JPEG)
+![pic3](https://github.com/duncbind/portfolio/blob/main/IMG_7927.JPEG?raw=true)
 
 ![pic4](https://github.com/duncbind/portfolio/blob/12efc883d15f04d84757f63ec180decce3543acd/IMG_7928.JPEG)
 
