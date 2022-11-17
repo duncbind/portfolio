@@ -15,7 +15,7 @@ I am extremely excited to learn ways to present data in a way that captivates an
 ## [Visualizing Government Debt](https://duncbind.github.io/portfolio/dataviz2)
 I put the whole dang system on trial!
 
-## [Critique by Design](https://duncbind.github.io/portfolio/critiquebydesign)
+## [Critique by Design](https://duncbind.github.io/portfolio/critique)
 Better to light a candle than curse the darkness...
 
 ## Final Project
