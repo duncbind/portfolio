@@ -1,3 +1,5 @@
+![pic3](https://github.com/duncbind/portfolio/blob/main/Dashboard Screen Shot.png?raw=true)
+![pic3](https://github.com/duncbind/portfolio/blob/main/Heat Map Screen Shot.png?raw=true)
 ![pic3](https://github.com/duncbind/portfolio/blob/main/IMG_7926.JPEG?raw=true)
 ![pic3](https://github.com/duncbind/portfolio/blob/main/IMG_7927.JPEG?raw=true)
 ![pic3](https://github.com/duncbind/portfolio/blob/main/IMG_7928.JPEG?raw=true)
