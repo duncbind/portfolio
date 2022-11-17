@@ -10,7 +10,9 @@
 
 ![](https://github.com/duncbind/portfolio/blob/d648273dd0b73a7a9b8549298c843e6dcfd4814a/IMG_7927.JPEG)
 
-![](https://github.com/duncbind/portfolio/blob/d648273dd0b73a7a9b8549298c843e6dcfd4814a/IMG_7929.JPEG)
+![]((https://raw.githubusercontent.com/duncbind/blob/d648273dd0b73a7a9b8549298c843e6dcfd4814a/IMG_7929.JPEG))
+https://raw.githubusercontent.com/duncbind/blob/d648273dd0b73a7a9b8549298c843e6dcfd4814a/IMG_7929.JPEG
+
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11849289"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
