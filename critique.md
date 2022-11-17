@@ -37,7 +37,7 @@ Here are their responses to the questionnaire I presented them with…
 >*I would just say it would definitely help to have a label on the X axis to know what the count is. Just knowing if this is the number of reported cases per year, per month, what does 12k mean? What does 8k mean? Right now it just feels relative to the other bars.*
 
 - Is there anything you would like to see added or removed for the sake of clarity?
-*I don't mind the numbers at the end. I know some people would say it could be cleaner, but I like it. There are always a couple dimensions going here, day of the week, time of day, counts, so three dimensions. I guess if you wanted to use another dimension you could use color, or use color to highlight a dimension that is already being displayed. You could use shapes, but that might make things a little bit “much.”*
+>*I don't mind the numbers at the end. I know some people would say it could be cleaner, but I like it. There are always a couple dimensions going here, day of the week, time of day, counts, so three dimensions. I guess if you wanted to use another dimension you could use color, or use color to highlight a dimension that is already being displayed. You could use shapes, but that might make things a little bit “much.”*
 
 - Who do you think is the intended audience for this?
 >*Nerds! Just kidding. Probably the police departments, people managing or running the city? Citizens? The Media?*
@@ -47,12 +47,12 @@ Here are their responses to the questionnaire I presented them with…
 
 ## Male, Late 20’s
 - Can you tell me what you think this is?
->*This looks to be the crime rate in Pittsburgh. I see that it is broken down in times of day and days of the week.There seems to be a lot of crimes on Saturday and Sunday Night.*
+>*This looks to be the crime rate in Pittsburgh. I see that it is broken down in times of day and days of the week. There seems to be a lot of crimes on Saturday and Sunday Night.*
 - Can you describe to me what this is telling you?
 >*I can see that there is a lot of crime that occurs on weekend nights. It looks like no one likes to commit crime in the morning. The evening and afternoon look about the same. It's crazy how little there is on Sunday Morning.*
 - Is there anything you find surprising or confusing?
 >*I don't really understand what is being considered a crime. Also, what time frame is this going off of? I don't really know enough to tell whether this is a year's worth, or even which year this might be.*
--Is there anything you would like to see added or removed for the sake of clarity?
+- Is there anything you would like to see added or removed for the sake of clarity?
 >*I would just like to see more descriptions of what we are looking at. I like that it is asking a question and not telling what to think, but the answer is kind of obvious. A little color would be a nice way to make it more interesting.* 
 - Who do you think is the intended audience for this?
 >*People who live in Pittsburgh.*
