@@ -1,7 +1,7 @@
 ## Introduction
 
 
-It is my goal with this project to provide advocacy for Drug Courts in the United States. My intended Audience will range from policy makers, to justice advocates, to community organizers who would benefit from these court systems and the positive impact they have on their community. To do this, I will attempt to provide robust data that is presented in a memorable and visually appealing manner. The goal of this will be that individuals will walk away with an understanding of the efficacy of the program, as well as notable data segments that they will be able to share among peers with minimal need to reference the report at a later date. Additionally, it is my hope that each audience member leaves the presentation as an advocate for Drug Court, and other alternative sentencing courts.
+It is my goal with this project to provide advocacy for Drug Courts in the United States. My intended audience will range from policy makers, to justice advocates, to community organizers who would benefit from these court systems and the positive impact they have on their community. To do this, I will attempt to provide robust data that is presented in a memorable and visually appealing manner. The goal of this will be that individuals will walk away with an understanding of the efficacy of the program, as well as notable data segments that they will be able to share among peers with minimal need to reference the report at a later date. Additionally, it is my hope that each audience member leaves the presentation as an advocate for Drug Court, and other alternative sentencing courts.
 
 
 ## Outline
@@ -9,7 +9,7 @@ It is my goal with this project to provide advocacy for Drug Courts in the Unite
 1. Provide necessary context on the prevalence of illegal drugs in the United States.  
 * Drug addiction as a public health issue.  
 * Majority of people who are incarcerated in federal prison are there on drug charges.  
-* Incarceration has little effect on this phenomenonLeads to recidivism.Is punitive instead of corrective.  
+* Incarceration has little effect on this phenomenon, which leads to recidivism and is punitive instead of corrective.  
 * A different approach is required.  
 2. Introduce the concept of alternative sentencing courts, specifically Drug Court.  
 * Discuss success in the past 20 years.  
@@ -40,7 +40,7 @@ Current percentage of federal inmates based on offenses - Source: [Federal Burea
 Demographics, success rates, specific drug use of Drug courts in 2019 - Source: [National Drug Court Resource Center](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwil56eYtcP7AhUeEGIAHfUzBAoQFnoECAoQAQ&url=https%3A%2F%2Fndcrc.org%2Fwp-content%2Fuploads%2F2022%2F08%2FPCP_2022_HighlightsInsights_DigitalRelease.pdf&usg=AOvVaw0XmzCVtTp_VojnRNlpOeHW)
 
 
-* This Data will be used to demonstrate the efficacy of Drug court. It may eventually be measured against U.S. population demographics if such a comparison will be beneficial to the narrative.
+* This data will be used to demonstrate the efficacy of Drug Court. It may eventually be measured against U.S. population demographics if such a comparison will be beneficial to the narrative.
 
 
 ***
