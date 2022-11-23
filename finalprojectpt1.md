@@ -24,7 +24,7 @@ It is my goal with this project to provide advocacy for Drug Courts in the Unite
 ## Initial Sketches
 ![image](https://raw.githubusercontent.com/duncbind/portfolio/main/prisonpop.JPEG)
 ![image](https://raw.githubusercontent.com/duncbind/portfolio/main/fedapprop.JPEG)
-![image](https://github.com/duncbind/portfolio/blob/main/drugcourtmap.JPEG?raw=true)
+![image]()
 ## The Data
 
 Current percentage of federal inmates based on offenses - Source: [Federal Bureau of Prisons](https://www.bop.gov/about/statistics/statistics_inmate_offenses.jsp)
