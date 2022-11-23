@@ -22,9 +22,9 @@ It is my goal with this project to provide advocacy for Drug Courts in the Unite
 * Share a button that enables audience members to contact local policy makers to continue to support Drug Court.  
 
 ## Initial Sketches
-![image](https://user-images.githubusercontent.com/117220516/202344280-3af389a1-e004-40e9-97b2-359cb2ce880c.png)
-![image](https://user-images.githubusercontent.com/117220516/202344280-3af389a1-e004-40e9-97b2-359cb2ce880c.png)
-![image](https://user-images.githubusercontent.com/117220516/202344280-3af389a1-e004-40e9-97b2-359cb2ce880c.png)
+![image](https://raw.githubusercontent.com/duncbind/portfolio/main/prisonpop.JPEG)
+![image](https://raw.githubusercontent.com/duncbind/portfolio/main/fedapprop.JPEG)
+![image](https://github.com/duncbind/portfolio/blob/main/drugcourtmap.JPEG?raw=true)
 ## The Data
 
 Current percentage of federal inmates based on offenses - Source: [Federal Bureau of Prisons](https://www.bop.gov/about/statistics/statistics_inmate_offenses.jsp)
