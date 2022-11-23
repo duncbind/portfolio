@@ -32,6 +32,14 @@ Current percentage of federal inmates based on offenses - Source: [Federal Burea
 
 * This data will be used to demonstrate the sheer volume of federally incarcerated individuals who are imprisoned because of drug charges. By priming the audience with this information they will hopefully view the rest of the data visuals with this volume in mind, and that even success rates of 8% - 25% would remove a huge portion of individuals from the federal prison system.
 
+
+***
+Demographics, success rates, specific drug use of Drug courts in 2019 - Source: [National Drug Court Resource Center](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwil56eYtcP7AhUeEGIAHfUzBAoQFnoECAoQAQ&url=https%3A%2F%2Fndcrc.org%2Fwp-content%2Fuploads%2F2022%2F08%2FPCP_2022_HighlightsInsights_DigitalRelease.pdf&usg=AOvVaw0XmzCVtTp_VojnRNlpOeHW)
+
+
+* This Data will be used to demonstrate the efficacy of Drug court. It may eventually be measured against U.S. population demographics if such a comparison will be beneficial to the narrative.
+
+
 ***
 Treatment Court Federal Appropriations 2014-2019 - Source: [National Drug Court Resource Center](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwil56eYtcP7AhUeEGIAHfUzBAoQFnoECAoQAQ&url=https%3A%2F%2Fndcrc.org%2Fwp-content%2Fuploads%2F2022%2F08%2FPCP_2022_HighlightsInsights_DigitalRelease.pdf&usg=AOvVaw0XmzCVtTp_VojnRNlpOeHW))
 
@@ -39,7 +47,7 @@ Treatment Court Federal Appropriations 2014-2019 - Source: [National Drug Court 
 Federal Prison Appropriations 2018-2021 - Source: [Federal Bureau of Prisons](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiN8Jy_pMP7AhWURTABHTC9CYIQFnoECBEQAw&url=https%3A%2F%2Fwww.justice.gov%2Fdoj%2Fpage%2Ffile%2F1246666%2Fdownload&usg=AOvVaw0NesSKv-n9eNLhu6WUUQ4i)
 
 
-* These data sets will be compared to show the huge discrepancy between what is allocated towards incarceration, and what is put towards Drug Courts. While this will make for an intesteing comparison, I hope to find more overlapping years of Appropriation Data to further illustrate this point.
+* These data sets will be compared to show the huge discrepancy between what is allocated towards incarceration, and what is put towards Drug Courts. While this will make for an interesteing comparison, I hope to find more overlapping years of Appropriation Data to further illustrate this point.
 
 ***
 Court count state by state - Source: [The National Drug Court Resource Center](https://ndcrc.org/maps/interactive-maps/2021-treatment-court-count/)
