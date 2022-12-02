@@ -1,11 +1,24 @@
 ## Introduction
 
+The next step in developing this project is to create a wireframe, or rough approximation of what the final presentation will look like, and solicit some actionable feedback. I was able to render some of my more robust data sets into some dynamic visuals using [Flourish](https://flourish.studio/), and while I feel they represent the data appropriately, I was still very eager to see how an audience would engage with them and what revisions they would be eager to see. The wireframe still utilized some of my sketches from the last section to convey some necessary information. While hand drawn, these sketches do reflect actual data, so the represented statistics will not be misleading to any of the individuals I will be soliciting feedback from.
+
+While building out this story in [Shorthand](https://app.shorthand.com/)
+ I wanted to avoid being too visually overwhelming. There are a lot of amazing options to integrate media in a presentation with Shorthand, but my fear was that if I overdid it, it might detract from the purpose of the presentation. I opted to use a gradient background that moved slightly as you scrolled through the story. I wanted the background to shift from red to blue and eventually white to match the narrative shift from crisis and urgency, to an informed call to action.
+
+
 
 ## [Wire Frame]([https://duncbind.github.io/portfolio/](https://preview.shorthand.com/p0B2qSP9epgg9CXW))
 
 
 ## Feedback
 
+My target audience for this presentation is community organizers with varying levels of influence, from local to regional, who have an understanding of the effects of addiction and incarceration in their respective communities. To solicit feedback I sought out two individuals who were engaged in their communities, had deep understanding of the societal effects of both addiction and incarceration, and had little or no familiarity with drug courts as a viable option for addressing these issues.
+
+Person 1 is a newer resident of Western Pennsylvania, identifies as a moderate liberal, and works in data science. They are an active volunteer and regular voter, but they are hesitant to trust government bureaucracies to fix complex societal issues.
+
+Person number 2 is a lifelong resident of Allegheny county, identifies as a liberal democrat,  and works as a graphic designer. As a lifelong resident with deep roots in the community, they have seen many problems affecting Western Pennsylvania throughout their lives, and are eager to hear potential solutions.
+
+I gave both participants a link to the wireframe of the presentation, and let them read through it without any explanation. Upon completion, I gave them the same series of questions, occasionally asking a follow up to elicit a more elaborate response if it seemed they had more to say. 
 
 
 | Question  | Person 1 | Person 2 |
