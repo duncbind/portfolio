@@ -20,6 +20,33 @@
 | If you had to change one thing, what would it be?  | “I don't know if you are able to change the spacing between the sections, but maybe tighten it a little bit. Or maybe that gives it time to breathe.”  | "While I think that the racial component is an interesting observation, I think that it goes a bit outside the bounds of the overall thesis which is to introduce the reader to drug courts. It seems to be data that supports a different argument. For this reason I would cut it and focus the energy on how to increase the funding and usage of drug courts as a more cost-effective and likely humane treatment system. I would also like a little explanation of how a drug court differs from a regular court."   |
 
 ## Peer Reveiw
+I was also fortunate enough to have some of my peers from my class read my wireframe and provide me with feedback. I had a few guiding questions I asked, but also received feedback as they went through the presentation on their own. I included the most relevant feedback with the question that best corresponded with their insights...
+
+### Is the presentation easy to understand?
+
+> “It would be more helpful, for people whose second language is English, to show an introductory image.”
+
+> “Having the images will show the story better than not having them.”
+
+
+
+### Did you feel engaged?
+
+> “You have made this easy to read through, and because of that there is less trimming you will have to do… Something I would like to see addressed more granularly is the Federal Appropriations. You should have the actual number that is represented by the dollar symbol.
+
+### Do the Use of data and visualizations support the presentation?
+
+
+> “Maybe present what is being done to make the improvements happen. That way I might be inclined to support an effort that I am being informed about.”
+
+> “You could probably do a visualization of $27 to $1 investment and savings. Similar to the 75% and 66%. This is a good opportunity to use shapes instead of numbers.”
+
+> “I would still like to see persona images, or atleast what a drug courtroom looks like.”
+
+### Is there a clear call to action or next steps?
+
+
+> “Yeah, donate or give money to somebody!”
 
 
 ## Actionable Steps
