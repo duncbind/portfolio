@@ -86,5 +86,7 @@ After reviewing all the feedback, I broke down what would be most feasible and b
 |     4| Embellish text segments that include data that does not warrant an entire chart. |
 
 
+The next phase will be working to implement these changes before the deadline. Stay tuned until next week!
+
 
 ## [Back to Portfolio](https://duncbind.github.io/portfolio/)
