@@ -57,9 +57,11 @@ After reviewing all the feedback, I broke down what would be most feasible and b
 
 | Rank | High Effort, High Return |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1| Review each portion of the story, and make sure it is consistently driving towards an understandable, actionable thesis. |
+|     2| Refine the call to action further, leave no question about one thing everyone who sees this presentation can do to support drug court. |
+|     3| Update all hand drawn elements with more sophisticated data visuals. |
+|     4| Source new data and create visuals that contribute to the refined narrative. |
+
 
 
 
