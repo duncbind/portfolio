@@ -52,5 +52,21 @@ I was also fortunate enough to have some of my peers from my class read my wiref
 ## Actionable Steps
 
 
+After reviewing all the feedback, I broke down what would be most feasible and beneficial into basic categories based on the effort it would take to implement them, and the return on investment.
+
+
+| Rank | High Effort, High Return |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
+| Rank | Low Effort, High Return |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
+
 
 ## [Back to Portfolio](https://duncbind.github.io/portfolio/)
