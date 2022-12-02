@@ -6,6 +6,11 @@
 
 ## Feedback
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 | Question  | Person 1 | Person 2 |
 | ------------- | ------------- | ------------- |
 | Who do you think this presentation was made for?  | Content Cell  | Content Cell  |
