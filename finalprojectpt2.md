@@ -61,11 +61,14 @@ After reviewing all the feedback, I broke down what would be most feasible and b
 |     2|               |
 |     3|               |
 
+
+
 | Rank | Low Effort, High Return |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1| Omit sections that are contrary to the thesis, and confuse the call to action. |
+|     2| Add images of people who have been affected by drug court, incarceration, and addiction to make drug court seem more tangible and the story more human. |
+|     3| Make the transitions of the Shorthand format smoother, with less negative space between segments. |
+|     4| Embellish text segments that include data that does not warrant an entire chart. |
 
 
 
