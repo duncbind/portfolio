@@ -12,8 +12,7 @@
 | ------------- | ------------- | ------------- |
 | Who do you think this presentation was made for?  | Content Cell  |    |
 | What story do you think this presentation was telling you?  | Content Cell  | This story is mainly informative on what drug courts are. They are able to cut costs and improve recidivism rates. However, I am having trouble understanding the thesis. Am I to understand that Drug Courts are inevitably accessed as well?  |
-| Did you feel the need for additional information or elaboration at any point?  | Content Cell  | 
-Ultimately, I feel that this presentation needs a thesis/persuasive argument.  |
+| Did you feel the need for additional information or elaboration at any point?  | Content Cell  | Ultimately, I feel that this presentation needs a thesis/persuasive argument.  |
 | Did you feel consistently engaged with the material presented?  | Content Cell  |  I see that after the something has to change part, we are introduced to drug courts as an alternative solution. I would lean into this by creating a new section rather than keeping it part of the same continuum of discussion.   |
 | Was there any element you found distracting or confusing?  | Content Cell  | I noticed that the recidivism comment is an apples to oranges comparison. You may be able to make a stronger thesis by creating two separate bar graphs or something that shows this contrast.  |
 | Did you feel inspired to take any particular action?  | Content Cell  | Not really. I just felt more informed about drug courts, but I would like to learn more of how they get implemented as alternative options in PA. Like is this something that I could let my HS nephew know about? (fictional character)  |
