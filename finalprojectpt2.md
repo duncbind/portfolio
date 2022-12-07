@@ -7,7 +7,7 @@ While building out this story in [Shorthand](https://app.shorthand.com/)
 
 
 
-## [Click Here to View Wireframe](https://preview.shorthand.com/p0B2qSP9epgg9CXW)
+## [Click Here to View Wireframe]([https://preview.shorthand.com/p0B2qSP9epgg9CXW](https://carnegiemellon.shorthandstories.com/addressing-americas-drug-epidemic-with-alternative-courts-wire-frame/index.html))
 
 
 ## Feedback
