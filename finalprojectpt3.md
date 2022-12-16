@@ -1,5 +1,5 @@
 ## Part 3
-[The Final Project](https://carnegiemellon.shorthandstories.com/the-case-for-drug-courts/index.html)
+## [The Final Project](https://carnegiemellon.shorthandstories.com/the-case-for-drug-courts/index.html)
 
 As I approached the final iteration of this presentation, I knew there were several major changes that needed to occur in order to make the story more effective. I was very happy with the majority of the data presented, and had the components for a compelling narrative, but I had to do a better job to connect the thesis to the story, and make sure the audience would have a clear course of action.
 
