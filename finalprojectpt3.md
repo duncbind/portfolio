@@ -27,7 +27,7 @@ Based on my feedback it was very apparent I needed to clarify my call to action 
 ![image](https://raw.githubusercontent.com/duncbind/portfolio/main/comparison3.png)
 
 
-The final version of this story can be found here. In the process of its creation, I found the initial feedback from my peers to be incredibly valuable. One can design and rationalize many components of stories such as these, but it is impossible to understand their efficacy if you do not solicit feedback from interested yet unbiased parties. 
+The final version of this story can be found [here]([https://flourish.studio/](https://carnegiemellon.shorthandstories.com/the-case-for-drug-courts/index.html)). In the process of its creation, I found the initial feedback from my peers to be incredibly valuable. One can design and rationalize many components of stories such as these, but it is impossible to understand their efficacy if you do not solicit feedback from interested yet unbiased parties. 
 
 Thank you very much for joining me on this journey!
 
