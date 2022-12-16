@@ -20,4 +20,8 @@ The final version of this story can be found here. In the process of its creatio
 
 Thank you very much for joining me on this journey!
 
+
+## [Part 1](https://duncbind.github.io/portfolio/finalprojectpt1.html)
+## [Part 2](https://duncbind.github.io/portfolio/finalprojectpt2.html)
+
 ## [Back to Portfolio](https://duncbind.github.io/portfolio/)
