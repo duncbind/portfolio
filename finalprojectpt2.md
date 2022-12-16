@@ -88,5 +88,6 @@ After reviewing all the feedback, I broke down what would be most feasible and b
 
 The next phase will be working to implement these changes before the deadline. Stay tuned until next week!
 
-
+## [Part 1](https://duncbind.github.io/portfolio/finalprojectpt1.html) 
+## [Part 3](https://duncbind.github.io/portfolio/finalprojectpt3.html) 
 ## [Back to Portfolio](https://duncbind.github.io/portfolio/)
