@@ -1,7 +1,11 @@
-Introduction
+##Introduction
+
+
 As I approached the final iteration of this presentation, I knew there were several major changes that needed to occur in order to make the story more effective. I was very happy with the majority of the data presented, and had the components for a compelling narrative, but I had to do a better job to connect the thesis to the story, and make sure the audience would have a clear course of action.
 
+
 I went through and eliminated as much superfluous text as possible. If information could be converted into a citation for the sake of clarity, I did so to make things less awkward for a reader. I used color and a few other flourishes to add emphasis to key pieces of information making them more accessible for readers.
+
 
 The most drastic change I made was removing the colored gradient style of the presentation in favor of images that made the story feel more human. I liked how the gradient worked, and am glad I now have that technique in my tool belt, but it made the story feel far too sterile. This is a story about helping people, and so the audience would need to see people within the narrative in order to feel moved to action.
 
