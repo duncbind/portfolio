@@ -1,4 +1,4 @@
-## Introduction
+## Part 2
 
 The next step in developing this project is to create a wireframe, or rough approximation of what the final presentation will look like, and solicit some actionable feedback. I was able to render some of my more robust data sets into some dynamic visuals using [Flourish](https://flourish.studio/), and while I feel they represent the data appropriately, I was still very eager to see how an audience would engage with them and what revisions they would be eager to see. The wireframe still utilized some of my sketches from the last section to convey some necessary information. While hand drawn, these sketches do reflect actual data, so the represented statistics will not be misleading to any of the individuals I will be soliciting feedback from.
 
