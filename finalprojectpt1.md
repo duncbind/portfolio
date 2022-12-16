@@ -69,4 +69,8 @@ Individual statistics on Drug Court efficacy - Source: [National Association of 
 
 I will be forming my final project with Shorthand, as I have found it has several valuable tools that can present my narrative in a visually stimulating way without detracting from the substance of the materials.  Individual data visuals will likely be created with Flourish, but ones that require more nuance or intricately presented information with multiple variables or geographic information will be constructed in Tableau. Supplementary images will be sourced from Unsplash, or other sites that provide free high resolution photos. Data and visuals will all be presented along with citations so that original authors shall receive due credit.
 
+
+
+## [Part 2](https://duncbind.github.io/portfolio/finalprojectpt2.html) 
+## [Part 3](https://duncbind.github.io/portfolio/finalprojectpt3.html) 
 ## [Back to Portfolio](https://duncbind.github.io/portfolio/)
